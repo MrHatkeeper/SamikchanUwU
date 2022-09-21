@@ -1,0 +1,15 @@
+C:\Users\krchk\RiderProjects\SamikchanUwU\IdkCoDelam\bin\Debug\net6.0\IdkCoDelam.exe
+C:\Users\krchk\RiderProjects\SamikchanUwU\IdkCoDelam\bin\Debug\net6.0\IdkCoDelam.deps.json
+C:\Users\krchk\RiderProjects\SamikchanUwU\IdkCoDelam\bin\Debug\net6.0\IdkCoDelam.runtimeconfig.json
+C:\Users\krchk\RiderProjects\SamikchanUwU\IdkCoDelam\bin\Debug\net6.0\IdkCoDelam.dll
+C:\Users\krchk\RiderProjects\SamikchanUwU\IdkCoDelam\bin\Debug\net6.0\ref\IdkCoDelam.dll
+C:\Users\krchk\RiderProjects\SamikchanUwU\IdkCoDelam\bin\Debug\net6.0\IdkCoDelam.pdb
+C:\Users\krchk\RiderProjects\SamikchanUwU\IdkCoDelam\obj\Debug\net6.0\IdkCoDelam.csproj.AssemblyReference.cache
+C:\Users\krchk\RiderProjects\SamikchanUwU\IdkCoDelam\obj\Debug\net6.0\IdkCoDelam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krchk\RiderProjects\SamikchanUwU\IdkCoDelam\obj\Debug\net6.0\IdkCoDelam.AssemblyInfoInputs.cache
+C:\Users\krchk\RiderProjects\SamikchanUwU\IdkCoDelam\obj\Debug\net6.0\IdkCoDelam.AssemblyInfo.cs
+C:\Users\krchk\RiderProjects\SamikchanUwU\IdkCoDelam\obj\Debug\net6.0\IdkCoDelam.csproj.CoreCompileInputs.cache
+C:\Users\krchk\RiderProjects\SamikchanUwU\IdkCoDelam\obj\Debug\net6.0\IdkCoDelam.dll
+C:\Users\krchk\RiderProjects\SamikchanUwU\IdkCoDelam\obj\Debug\net6.0\ref\IdkCoDelam.dll
+C:\Users\krchk\RiderProjects\SamikchanUwU\IdkCoDelam\obj\Debug\net6.0\IdkCoDelam.pdb
+C:\Users\krchk\RiderProjects\SamikchanUwU\IdkCoDelam\obj\Debug\net6.0\IdkCoDelam.genruntimeconfig.cache
