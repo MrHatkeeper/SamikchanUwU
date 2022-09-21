@@ -2,7 +2,7 @@
 
 public class Memisek
 {
-    public void Mem()
+    public static void Mem()
     {
         var text = Console.ReadLine();
         for (var i = 0; i < text!.Length;i++)
