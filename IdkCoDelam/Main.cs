@@ -12,8 +12,7 @@ class Idk
         {
             string[] editedAthlet = input[i].Split(";");
 
-
-            Console.WriteLine(long.Parse(editedAthlet[6]));
+            
 
             Athlete holder = new Athlete(
                 long.Parse(editedAthlet[0]),
