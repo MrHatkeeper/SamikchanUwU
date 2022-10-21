@@ -13,15 +13,14 @@ class Idk
             string[] editedAthlet = input[i].Split(";");
 
             
-
             Athlete holder = new Athlete(
                 long.Parse(editedAthlet[0]),
                 editedAthlet[1],
                 editedAthlet[2],
                 editedAthlet[3],
                 editedAthlet[4],
-                double.Parse(editedAthlet[5]),
-                double.Parse(editedAthlet[6]),
+                editedAthlet[5],
+                editedAthlet[6],
                 editedAthlet[7],
                 int.Parse(editedAthlet[8]),
                 int.Parse(editedAthlet[9]),
@@ -73,14 +72,13 @@ class Idk
 
         foreach (var j in czechAthletes)
         {
-            Console.Write(j + " ");
+            Console.Write(j.Name + " ");
         }
     }
 
 
     private static void CountOfGenders(List<Athlete> athletes)
     {
-        int[] output = new int[2];
 
         int man = 0;
         int woman = 0;
@@ -89,11 +87,11 @@ class Idk
         {
             if (i.Sex == "male")
             {
-                output[0]++;
+                man++;
             }
             else
             {
-                output[1]++;
+                woman++;
             }
         }
 
@@ -130,14 +128,14 @@ class Idk
         public string Nationality { get; }
         public string Sex { get; }
         private string DateOfBirth { get; }
-        public double Height { get; }
-        public double Weight { get; }
+        public string Height { get; }
+        public string Weight { get; }
         public string Sport { get; }
         public int Gold { get; }
         public int Silver { get; }
         public int Bronze { get; }
         public string Info { get; }
-        public Athlete(long id,string name, string nationality, string sex, string dateOfBirth, double height, double weight, string sport,
+        public Athlete(long id,string name, string nationality, string sex, string dateOfBirth, string height, string weight, string sport,
             int gold, int silver, int bronze, string info)
         {
             Id = id;
