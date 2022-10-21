@@ -7,4 +7,15 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <None Include="bin\Debug\net6.0\athletes.csv" />
+      <None Include="bin\Debug\net6.0\bruh.txt" />
+      <None Include="bin\Debug\net6.0\ref\athletes.csv" />
+      <None Include="obj\athletes.csv" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="bin\Debug\net6.0\ref" />
+    </ItemGroup>
+
 </Project>
