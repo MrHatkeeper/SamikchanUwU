@@ -1,8 +1,9 @@
-﻿using IdkCoDelam;
+﻿namespace IdkCoDelam;
 
-
-Palindrome.Pal();
-Memisek.Mem();
-Nasobilka.Nasob();
-
-
+class Idk
+{
+    public static void Main(string[] args)
+    {
+        
+    }
+}
